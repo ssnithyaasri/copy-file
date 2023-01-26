@@ -26,6 +26,9 @@ End the program
 
 ## PROGRAM:
 ```
+program to copying the contents from one file to another file
+developed by:Nithyaa sri S S
+reference number:22008434
 with open('sample.txt','r') as file1:
     with open ('san1.txt','a') as file2:
         for line in file1:
